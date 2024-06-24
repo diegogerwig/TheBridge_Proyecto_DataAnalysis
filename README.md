@@ -10,6 +10,13 @@ En este proyecto final recopilaremos los conocimientos adquiridos durante este p
 * **Data Analyst**: Ser capaz de condensar toda la información presente en nuestro sistema y presentársela a usuarios clave de forma que el mensaje sea claro y conciso, atractivo y lo menos sesgado posible. Para ello, las herramientas clave serán las plataformas de BI y las bases de datos que soportarán las operaciones requeridas por estas soluciones.
 
 
+## CONJUNTO DE DATOS
+Origen: www.euskadi.eus
+Conjunto: Elecciones Parlemento Eurpoea 2019
+
+
+
+
 ## Equipo
 - [Mabel Consueto](https://github.com/Mabelycv)
 - [Flor Ramirez](https://github.com/FlorDRamirez)
