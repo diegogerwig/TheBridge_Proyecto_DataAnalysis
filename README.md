@@ -20,4 +20,5 @@ Conjunto: Elecciones Parlemento Eurpoea 2019
 ## Equipo
 - [Mabel Consueto](https://github.com/Mabelycv)
 - [Flor Ramirez](https://github.com/FlorDRamirez)
+- [Elena Craciun](https://github.com/AprendizElena)
 - [Diego Gerwig](https://github.com/diegogerwig)
