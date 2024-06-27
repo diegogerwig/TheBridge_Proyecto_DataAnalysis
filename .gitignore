@@ -1,6 +1,7 @@
 **/.env
 */.env
 .env
+_Trash/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
