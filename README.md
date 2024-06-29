@@ -24,7 +24,7 @@ En este proyecto final recopilaremos los conocimientos adquiridos durante este p
 
 
 ## 🔗 SCHEMA DATABASE
-![](./img/schema.png)
+![](./img/schema+.png)
 
 
 ## 💪 EQUIPO
